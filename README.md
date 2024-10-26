@@ -1,0 +1,2 @@
+# pertemuanpertama
+project pertamaku
